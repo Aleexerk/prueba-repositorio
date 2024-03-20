@@ -1,2 +1,6 @@
 # prueba-repositorio
-test
+<h1>PROBANDO GITHUB</h1>
+-Estado de proyecto: en construcción
+
+
+-------------------------------------
